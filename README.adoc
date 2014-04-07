@@ -16,6 +16,7 @@ Allgemein
 
 * python3 (http://python.org)
 * python-requests (http://python-requests.org)
+* (optional) rdesktop  - Für Remote Desktop auf Terminal Server
 
 ArchLinux
 +++++++++
@@ -23,6 +24,7 @@ ArchLinux
 [source,bash]
 ----
 $ pacman -S python python-requests
+$ pacman -S rdesktop
 ----
 
 Für die Hilfe siehe:
