@@ -1,0 +1,10 @@
+
+DHBW Skripte
+============
+
+Keine Vorlesungsskripte, aber Skripte, die für die DHBW genutzt werden können
+
+dhbw.py
+-------
+
+Dieses Skript kann genutzt werden, um sich am Zerberus im WLAN der DHBW Horb anzumelden.
