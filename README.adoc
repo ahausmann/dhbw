@@ -8,6 +8,23 @@ dhbw.py
 
 Dieses Skript kann genutzt werden, um sich am Zerberus im WLAN der DHBW Horb anzumelden.
 
+Abhängigkeiten
+~~~~~~~~~~~~~~
+
+Allgemein
++++++++++
+
+* python3 (http://python.org)
+* python-requests (http://python-requests.org)
+
+ArchLinux
++++++++++
+
+[source,bash]
+----
+$ pacman -S python python-requests
+----
+
 Für die Hilfe siehe:
 [source,bash]
 ----
