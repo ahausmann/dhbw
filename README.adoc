@@ -1,4 +1,3 @@
-
 DHBW Skripte
 ============
 
@@ -8,3 +7,9 @@ dhbw.py
 -------
 
 Dieses Skript kann genutzt werden, um sich am Zerberus im WLAN der DHBW Horb anzumelden.
+
+Für die Hilfe siehe:
+[source,bash]
+----
+$ dhbw.py --help
+----
